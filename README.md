@@ -3,13 +3,9 @@ Hey there, I'm Justus - A Frontend developer based in Lagos, Nigeria. With a str
 ## Reach me:
 
 via email: justuschimeremueze@gmail.com
-
 ### OR
-
 via LinkedIn: https://www.linkedin.com/in/justus-asogwa-726427293
-
 ### OR
-
 via whatsapp: 08173771791
 
 <!---
